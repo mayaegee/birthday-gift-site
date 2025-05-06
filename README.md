@@ -1,9 +1,13 @@
+A web development practice project of a Birthday Card Site I made for my grandmother's birthday. I got some practice with HTML, CSS, and developing and deploying static webpages. You can check out the deployed site at https://birthdayswebsite.netlify.app/ or run it locally.
+
 # Getting Started
 Install the dependencies and run the project
 ```
 npm install
 npm start
 ```
+
+It is also deployed at https://birthdayswebsite.netlify.app/
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Scrimba
